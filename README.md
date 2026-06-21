@@ -6,7 +6,7 @@
    • Résumé button → replace https://your-resume-link.com with your CV link
    • Client Feedback → swap in a verified direct quote when you have one
    • (optional) location (Pune), experience start date (2024)
-  AUTO: github-metrics.svg (metrics.yml) · snake.svg (snake.yml, output branch)
+  AUTO: snake.svg (snake.yml, output branch)
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
@@ -320,16 +320,6 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CTAGRAM&theme=gruvbox" alt="Stats" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CTAGRAM&theme=gruvbox&utcOffset=5.5" alt="Productive Time" />
-
-</div>
-
----
-
-## 📐 Metrics Dashboard
-
-<div align="center">
-
-<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
