@@ -1,51 +1,45 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  STILL TO PERSONALIZE — search for "YOUR_" / "REPLACE" below:
-   • Location                   (currently "Pune, India" — inferred from MIT ADT)
-   • Experience start date      (currently "2024 — Present")
-   • Coding profile usernames   (LeetCode / GFG / HackerRank / CodeChef)
-   • Certifications             (add real ones / remove placeholders)
-  DONE: portfolio → livewall.astitwa.ai · real projects · real metrics · email.
-  Snake graph: .github/workflows/snake.yml already ran (output branch exists).
+  THEME: Warm luxury (amber / gold / bronze on espresso). All badges are <img>
+  tags so GitHub always renders them. Certifications are real (from LinkedIn).
+  Still optional to confirm: location (Pune), experience start date (2024).
+  Snake graph served from the `output` branch (snake.yml workflow).
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Rudraksh%20Bharti&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Founder%20of%20ASTITWA%20AI&descAlignY=56&descSize=20&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92400E,50:D97706,100:FBBF24&height=220&section=header&text=Rudraksh%20Bharti&fontSize=58&fontColor=FFF7ED&animation=fadeIn&fontAlignY=34&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Founder%20of%20ASTITWA%20AI&descAlignY=56&descSize=20&descAlign=50" alt="header" />
 
 <a href="https://github.com/CTAGRAM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=820&height=60&lines=AI+Automation+Engineer+%26+Founder+of+ASTITWA+AI;Building+AI+Agents+%26+Workflow+Automation;n8n+%E2%80%A2+Generative+AI+%E2%80%A2+API-Driven+Systems;Turning+Complex+Operations+Into+Simple+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&height=60&lines=AI+Automation+Engineer+%26+Founder+of+ASTITWA+AI;Building+AI+Agents%2C+Voice+Systems+%26+Automations;%2414%2C000%2B+Delivered+for+UK+%26+Poland+Clients;Turning+Complex+Operations+Into+Simple+Workflows" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Academic + Location -->
-![Degree](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![University](https://img.shields.io/badge/MIT%20ADT%20University-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Pune%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/B.Tech%20CSE-B45309?style=for-the-badge&logoColor=white" alt="Degree" />
+<img src="https://img.shields.io/badge/MIT%20ADT%20University-92400E?style=for-the-badge&logo=googlescholar&logoColor=white" alt="University" />
+<img src="https://img.shields.io/badge/Pune%2C%20India-D97706?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br/>
 
-<!-- Connect buttons -->
-<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-D97706?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-1A120B?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-1A120B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<!-- Live metrics -->
-<img src="https://komarev.com/ghpvc/?username=CTAGRAM&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/CTAGRAM?label=Followers&style=flat-square&color=7C3AED&logo=github&logoColor=white" alt="Followers" />
-<a href="https://github.com/CTAGRAM?tab=repositories"><img src="https://img.shields.io/badge/%E2%AD%90-Star%20My%20Work-A855F7?style=flat-square" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=CTAGRAM&label=Profile%20Views&color=F59E0B&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/CTAGRAM?label=Followers&style=flat-square&color=B45309&logo=github&logoColor=white" alt="Followers" />
+<a href="https://github.com/CTAGRAM?tab=repositories"><img src="https://img.shields.io/badge/%E2%AD%90%20Star%20My%20Work-F59E0B?style=flat-square" alt="Stars" /></a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## ☕ About Me
 
 > **AI Automation Engineer & Founder of [ASTITWA AI](https://livewall.astitwa.ai/)** — I architect, build, and deploy production-grade AI systems and automation platforms for international clients, turning complex, manual business operations into reliable, autonomous, revenue-generating workflows.
 
@@ -82,10 +76,11 @@
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="aiml" />
-&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/NumPy-1A120B?style=flat-square&logo=numpy&logoColor=F59E0B" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-1A120B?style=flat-square&logo=pandas&logoColor=F59E0B" alt="Pandas" />
+<img src="https://img.shields.io/badge/n8n-1A120B?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/GPT--4-1A120B?style=flat-square&logo=openai&logoColor=F59E0B" alt="GPT-4" />
 
 </div>
 
@@ -98,9 +93,9 @@
 | **Generative AI & LLMs** | `Advanced` | Prompt engineering, RAG, LLM-driven agents, structured tool-use & API integration |
 | **AI Agents & Orchestration** | `Advanced` | Autonomous multi-step agents, n8n + LLM pipelines, function/tool calling |
 | **Workflow Automation** | `Advanced` | n8n, event-driven webhooks, API orchestration, business-process automation |
+| **AI Voice & Conversational** | `Advanced` | VoIP AI calling, speech-to-text, sentiment & intent detection (multilingual) |
 | **Backend & API Engineering** | `Proficient` | FastAPI, Node/Nest, REST integrations, auth & secrets management |
 | **Machine Learning** | `Foundational` | PyTorch, scikit-learn, TensorFlow — model training & evaluation |
-| **Data & Analytics** | `Proficient` | Pandas, NumPy, data pipelines & ETL for automation workloads |
 | **Cloud Deployment** | `Proficient` | AWS / Azure / GCP, Vercel, real-world deployment & scaling |
 
 ---
@@ -160,77 +155,33 @@ A native macOS application that brings the desktop to life — turning videos an
 </details>
 
 <details>
-<summary><b>✍️ AI Blog Automation — Multi-Domain Content Engine</b></summary>
+<summary><b>✍️ AI Blog Automation — Multi-Platform Content Engine</b> &nbsp;·&nbsp; <code>Public Repo</code></summary>
 
 <br/>
 
-An autonomous content pipeline that researches topics, generates SEO-oriented articles with LLMs, and publishes across multiple domains end-to-end — hands-off.
+An autonomous content pipeline built on n8n that researches, generates, and publishes content across **WordPress, LinkedIn & Facebook** end-to-end — hands-off.
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | n8n • LLM APIs • CMS / WordPress APIs • Webhooks |
-| **What** | Topic research → AI generation → formatting → multi-domain publishing |
-| **Status** | Production automation |
+| **Stack** | n8n • LLM APIs • WordPress / LinkedIn / Facebook APIs • Webhooks |
+| **What** | Topic research → AI generation → formatting → multi-platform publishing |
+| **Repository** | **[`CTAGRAM/blog-content-automation-ai-n8n`](https://github.com/CTAGRAM/blog-content-automation-ai-n8n)** |
 
 </details>
 
 <details>
-<summary><b>🏠 Real Estate Lead Automation & CRM Platform</b></summary>
+<summary><b>🏠 Real Estate Lead Automation & CRM · 🔗 LinkedIn Sales Funnel · 🚗 Vehicle Intelligence · 📜 Certificate Automation</b></summary>
 
 <br/>
 
-Captures, qualifies, and routes real-estate leads into a CRM with automated, personalized follow-up sequences.
+Additional production automation systems delivered for clients and internal ops:
 
-| Aspect | Detail |
-| :--- | :--- |
-| **Stack** | n8n • CRM APIs • Node.js • Webhooks |
-| **What** | Lead capture → enrichment → CRM sync → automated follow-up |
-| **Status** | Production automation |
-
-</details>
-
-<details>
-<summary><b>🔗 LinkedIn Sales Funnel Automation</b></summary>
-
-<br/>
-
-Automates LinkedIn outreach, lead nurturing, and funnel tracking for B2B pipelines with AI-personalized messaging.
-
-| Aspect | Detail |
-| :--- | :--- |
-| **Stack** | Automation workflows • LinkedIn flows • LLM personalization |
-| **What** | Prospecting → personalized outreach → nurture → funnel analytics |
-| **Status** | Production automation |
-
-</details>
-
-<details>
-<summary><b>🚗 Vehicle Intelligence Platform — Automotive Market Analysis</b></summary>
-
-<br/>
-
-Aggregates and analyzes automotive-marketplace data to surface pricing trends and market insights.
-
-| Aspect | Detail |
-| :--- | :--- |
-| **Stack** | Playwright • Python • PostgreSQL • Data Analytics |
-| **What** | Marketplace scraping → normalization → pricing & market intelligence |
-| **Status** | Production automation |
-
-</details>
-
-<details>
-<summary><b>📜 Certificate Generation & Distribution Automation</b></summary>
-
-<br/>
-
-Bulk-generates personalized certificates and distributes them automatically at scale.
-
-| Aspect | Detail |
-| :--- | :--- |
-| **Stack** | n8n • Templating • Email / Drive APIs |
-| **What** | Data input → templated generation → automated delivery |
-| **Status** | Production automation |
+| System | What it does | Stack |
+| :--- | :--- | :--- |
+| **Real Estate Lead & CRM** | Lead capture → enrichment → CRM sync → automated follow-up | n8n • CRM APIs • Node.js |
+| **LinkedIn Sales Funnel** | Prospecting → AI-personalized outreach → nurture → analytics | Automation • LLM personalization |
+| **Vehicle Intelligence** | Marketplace scraping → normalization → pricing & market insights | Playwright • Python • PostgreSQL |
+| **Certificate Automation** | Bulk templated generation → automated delivery at scale | n8n • Templating • Email/Drive APIs |
 
 </details>
 
@@ -239,7 +190,7 @@ Bulk-generates personalized certificates and distributes them automatically at s
 ## 💼 Experience
 
 ### Founder & AI Automation Engineer — **ASTITWA AI**
-`2024 — Present` <!-- REPLACE date range -->
+`2024 — Present`
 
 Run an AI automation studio delivering production-grade AI systems for international clients — owning the full lifecycle from problem identification and architecture through development, deployment, and measurable business impact.
 
@@ -256,15 +207,21 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-B45309?style=flat-square" alt="Pull Shark" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-D97706?style=flat-square" alt="Quickdraw" />
+<img src="https://img.shields.io/badge/%F0%9F%91%A5%20Pair%20Extraordinaire-A16207?style=flat-square" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20YOLO-92400E?style=flat-square" alt="YOLO" />
+
 | Recognition | Details |
 | :--- | :--- |
 | 💸 **$14,000+ Client Revenue** | Generated directly through deployed AI automation systems |
 | 🌍 **International Clients** | Shipped production systems for clients in the UK & Poland |
 | 📞 **AI Voice Platform → $5,000+** | Hefes dealer-outreach system: 200–300 AI calls/day, 99%+ uptime |
 | 🥗 **GoodFor (UK) — 4.8/5.0 Beta** | AI product-intelligence app, pre-launch to App Store & Play Store |
-| 🚀 **Founder, ASTITWA AI** | AI automation studio serving real businesses |
+| 🏅 **Gemini Certified Educator** | Google certification (valid through 2029) |
+| 🧠 **10+ Industry Certifications** | Anthropic, AWS, Google, IBM, Deloitte & more |
 | 🎓 **B.Tech CSE, MIT ADT University** | Strong CS foundations + applied AI & networking |
-<!-- ADD any hackathons / awards here -->
+| 📈 **652+ Contributions / yr** | Consistent open-source & project activity on GitHub |
 
 </div>
 
@@ -272,31 +229,28 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 ## 📜 Certifications
 
-<!-- REPLACE: add real certification badges per provider, or remove unused groups -->
-
-**AWS**
-![AWS](https://img.shields.io/badge/AWS%20Cloud-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-![Oracle](https://img.shields.io/badge/Oracle-In%20Progress-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-In%20Progress-2563EB?style=flat-square&logo=google-scholar&logoColor=white)
-
-**Cisco**
-![Cisco](https://img.shields.io/badge/Cisco%20Networking-In%20Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 💻 Coding Profiles
-
 <div align="center">
 
-<!-- REPLACE YOUR_USERNAME with your real handles -->
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+**Anthropic**
+
+<img src="https://img.shields.io/badge/AI%20Fluency%3A%20Framework%20%26%20Foundations-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency" />
+<img src="https://img.shields.io/badge/Claude%20101-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101" />
+
+**Amazon Web Services &nbsp;·&nbsp; Google**
+
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architecture%20Simulation-B45309?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Gemini%20Certified%20Educator-92400E?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+
+**IBM**
+
+<img src="https://img.shields.io/badge/Cybersecurity%20Essentials-A16207?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity" />
+<img src="https://img.shields.io/badge/OOP%20in%20Java-A16207?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Java" />
+
+**Deloitte &nbsp;·&nbsp; Tavily &nbsp;·&nbsp; MIT ADT University**
+
+<img src="https://img.shields.io/badge/Technology%20Job%20Simulation-78350F?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
+<img src="https://img.shields.io/badge/Tavily%20Web%20Search%20API-C2410C?style=for-the-badge&logoColor=white" alt="Tavily" />
+<img src="https://img.shields.io/badge/AI%20in%20Action%20Workshop-854D0E?style=for-the-badge&logoColor=white" alt="MIT ADT" />
 
 </div>
 
@@ -306,20 +260,26 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CTAGRAM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CTAGRAM&hide_border=true&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CTAGRAM&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=78350F&bg_color=1A120B&title_color=FBBF24&icon_color=F59E0B&text_color=E8D6BE&ring_color=FBBF24" alt="GitHub Stats" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CTAGRAM&hide_border=false&border=78350F&background=1A120B&stroke=F59E0B&ring=FBBF24&fire=EA580C&currStreakLabel=FBBF24&sideLabels=E8D6BE&dates=A98D6B&currStreakNum=FFF7ED&sideNums=FFF7ED" alt="Streak Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTAGRAM&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTAGRAM&layout=compact&include_all_commits=true&count_private=true&hide_border=false&border_color=78350F&bg_color=1A120B&title_color=FBBF24&text_color=E8D6BE&langs_count=10" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CTAGRAM&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="Trophies" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CTAGRAM&theme=gruvbox" alt="Profile Summary" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CTAGRAM&theme=gruvbox" alt="Repos per Language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CTAGRAM&theme=gruvbox" alt="Most Commit Language" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CTAGRAM&theme=gruvbox" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CTAGRAM&theme=gruvbox&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
@@ -329,7 +289,7 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CTAGRAM&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CTAGRAM&bg_color=1A120B&color=FBBF24&line=F59E0B&point=FFF7ED&area=true&hide_border=true&title_color=FBBF24" alt="Activity Graph" />
 
 </div>
 
@@ -364,7 +324,7 @@ building:
 
 exploring:
   - Multi-agent systems & autonomous tool-use
-  - Generative AI applied to real business operations
+  - AI voice & real-time conversational systems
 
 open_to:
   - AI / Automation Engineering roles & internships
@@ -378,11 +338,11 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-1A120B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-1A120B?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-D97706?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -392,6 +352,6 @@ open_to:
 
 > _"Turning complex business operations into simple, impact-driven workflows."_
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:4F46E5&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:D97706,100:92400E&height=120&section=footer" alt="footer" />
 
 </div>
