@@ -22,9 +22,13 @@ jobs:
           user: CTAGRAM
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Only header + activity shown: with the built-in GITHUB_TOKEN, the
+          # repositories/community counters can only see THIS repo (would wrongly
+          # show "1 repository / 0 stars"). Add a METRICS_TOKEN PAT to safely
+          # re-enable: base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Kolkata
-          config_order: base.header, isocalendar, base.activity, base.community, base.repositories
+          config_order: base.header, isocalendar, base.activity
 
           # isocalendar = the isometric 3D contribution calendar (works on the
           # built-in GITHUB_TOKEN). languages/habits are intentionally omitted —
