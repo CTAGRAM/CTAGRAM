@@ -1,15 +1,12 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  PERSONALIZE BEFORE PUBLISHING — search for "REPLACE" / "YOUR_" below:
-   • Portfolio URL              (header + Connect + Current Focus)
-   • Email                      (currently rudrabhar21@gmail.com — confirm)
+  STILL TO PERSONALIZE — search for "YOUR_" / "REPLACE" below:
    • Location                   (currently "Pune, India" — inferred from MIT ADT)
    • Experience start date      (currently "2024 — Present")
-   • Featured project repo links
    • Coding profile usernames   (LeetCode / GFG / HackerRank / CodeChef)
    • Certifications             (add real ones / remove placeholders)
-   • Achievements               (add real ones)
-  Snake graph requires the included .github/workflows/snake.yml to run once.
+  DONE: portfolio → livewall.astitwa.ai · real projects · real metrics · email.
+  Snake graph: .github/workflows/snake.yml already ran (output branch exists).
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
@@ -31,7 +28,7 @@
 <br/>
 
 <!-- Connect buttons -->
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -50,13 +47,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-> **Aspiring AI Automation Engineer & Founder of [ASTITWA AI](https://github.com/CTAGRAM)** — I design and ship workflow automation, AI agents, and API-driven systems that turn complex, manual business operations into simple, reliable, impact-driven workflows.
+> **AI Automation Engineer & Founder of [ASTITWA AI](https://livewall.astitwa.ai/)** — I architect, build, and deploy production-grade AI systems and automation platforms for international clients, turning complex, manual business operations into reliable, autonomous, revenue-generating workflows.
 
-- 🧠 **AI & Generative Engineering** — building LLM-driven agents, RAG pipelines, and intelligent automation that does real work for real businesses.
-- ⚙️ **Workflow Automation** — deep focus on **n8n**, event-driven webhooks, and API orchestration for scalable, production-grade systems.
-- 🌐 **Full-Stack & Product Mindset** — from networking fundamentals to deployment, I care about the whole path from idea → reliable, shippable product.
-- 🎓 **B.Tech CSE @ MIT ADT University** — pairing strong CS fundamentals with hands-on, real-world deployment.
-- 🚀 **Founder energy** — I treat every project like a product: scalable, secure, and built to last.
+- 💸 **Real-world impact** — production systems serving live users daily across the **UK, Poland & beyond**, generating **$14,000+** in direct client revenue and cutting manual operational costs by **60%+**.
+- 🧠 **AI & Generative Engineering** — LLM-driven agents, RAG pipelines, GPT-4 integrations, computer vision (OCR/barcode), and AI voice systems shipped to real products.
+- ⚙️ **End-to-End Automation** — **n8n**, web scraping (Playwright), VoIP/AI calling, event-driven webhooks, and API orchestration — from problem → architecture → deployment → measurable ROI.
+- 🌐 **Full-Stack & Product Mindset** — React Native/Expo, Node.js, FastAPI, PostgreSQL, Redis, Docker, cloud — I own the whole path from idea to shipped, scalable product.
+- 🎓 **B.Tech CSE @ MIT ADT University** — pairing strong CS & networking fundamentals with hands-on, real-world deployment.
 
 **🤝 Open To** — `AI / Automation Engineering Roles` • `Internships` • `Freelance Automation Projects` • `Open-Source Collaboration`
 
@@ -111,56 +108,129 @@
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🧠 ASTITWA AI — AI Automation Studio</b></summary>
+<summary><b>🥗 GoodFor — AI Product Intelligence Mobile App</b> &nbsp;·&nbsp; <code>🇬🇧 UK Health-Tech Client</code></summary>
 
 <br/>
 
-End-to-end AI automation venture delivering AI agents and workflow systems that automate real business operations — from lead handling to internal ops — built to be reliable, scalable, and easy to maintain.
+A UK consumer-health app that scans food & beauty products and instantly returns health analysis, NOVA processing scores, allergen flags, and AI-recommended healthier alternatives — with a GPT-4 chat assistant and per-family-member profiles. A Yuka-class product built for the UK market.
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | n8n • Python • FastAPI • LLM APIs • Webhooks • Cloud Hosting |
-| **Scale** | Multi-workflow, multi-client, business-ready architecture |
-| **Performance** | Event-driven & webhook-triggered for low-latency execution |
-| **Security** | Token-scoped API keys, environment-based secret management |
-| **Impact** | Replaces repetitive manual operations with autonomous workflows |
-| **Repository** | [`CTAGRAM/astitwa-ai`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+| **Stack** | Expo • React Native • TypeScript • Node.js • Express • PostgreSQL • Redis • GPT-4 • Computer Vision (OCR / Barcode) |
+| **Scale** | Millions of products across Open Food Facts, USDA & UK retail DBs · 100+ concurrent scans |
+| **Performance** | <200ms cached / <3s new-product lookup · 95%+ barcode accuracy · 99.9% test uptime |
+| **Security** | JWT auth · rate limiting · graceful multi-source fallback |
+| **Impact** | 4.8/5.0 from 50+ UK beta users · pre-launch to App Store & Play Store (Q1 2026) |
+| **Status** | Private client project · `goodfor.app` |
 
 </details>
 
 <details>
-<summary><b>⚙️ n8n Workflow Automation Suite</b></summary>
+<summary><b>📞 Hefes — AI Voice Dealer Outreach Platform</b> &nbsp;·&nbsp; <code>🇵🇱 Poland · $5,000+ revenue</code></summary>
 
 <br/>
 
-A collection of production-grade automation workflows orchestrating APIs, AI models, and third-party services into seamless, hands-off business pipelines.
+A three-stage automation pipeline that scrapes Poland's largest car marketplaces (Otomoto, OLX), recovers hidden dealer phone numbers, and runs an AI voice agent that calls dealers in natural Polish — detecting intent, scheduling appointments, and logging every outcome.
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | n8n • REST/GraphQL APIs • JavaScript • Webhooks |
-| **Scale** | Modular, reusable nodes across multiple business use-cases |
-| **Performance** | Async, queue-friendly execution with retry & error handling |
-| **Security** | Credential vaulting, scoped access, signed webhooks |
-| **Impact** | Cuts manual ops time and human error for SMB workflows |
-| **Repository** | [`CTAGRAM/n8n-automation`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+| **Stack** | Playwright • Python • Node.js • PostgreSQL • Redis • VoIP / Twilio • AI Voice (Polish) • Speech-to-Text + Sentiment |
+| **Scale** | 1,000+ listings/day scraped · 10,000+ dealer intelligence database |
+| **Performance** | 200–300 AI calls/day (3× manual) · 90%+ phone recovery · 12–15% positive-response rate |
+| **Security** | Proxy rotation · dedup logic · disclosed call recording · compliance logging |
+| **Impact** | **$5,000+ direct revenue** · ~$3–4k/mo labor saved · 99%+ uptime |
+| **Status** | Private client project (Hefes) |
 
 </details>
 
 <details>
-<summary><b>🔌 API-Driven Integration Platform</b></summary>
+<summary><b>🖥️ LiveWall — Live Wallpaper App for macOS</b> &nbsp;·&nbsp; <code>🍏 Shipped Product</code></summary>
 
 <br/>
 
-A backend layer that connects disparate business tools through clean, documented APIs — the connective tissue powering automated, AI-enhanced operations.
+A native macOS application that brings the desktop to life — turning videos and animations into smooth, energy-aware live wallpapers. _"Your desktop, alive."_
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | FastAPI • Node.js • Postgres / MongoDB • Cloud Deploy |
-| **Scale** | Stateless services designed for horizontal scaling |
-| **Performance** | Cached responses & efficient query patterns |
-| **Security** | JWT auth, rate limiting, input validation |
-| **Impact** | Single integration layer for AI agents & automations |
-| **Repository** | [`CTAGRAM/api-platform`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+| **Stack** | macOS • Native desktop app • Live-wallpaper rendering engine |
+| **Platform** | macOS desktop |
+| **Highlights** | Real-time animated wallpapers · lightweight background rendering |
+| **Live Site** | **[livewall.astitwa.ai](https://livewall.astitwa.ai/)** |
+
+</details>
+
+<details>
+<summary><b>✍️ AI Blog Automation — Multi-Domain Content Engine</b></summary>
+
+<br/>
+
+An autonomous content pipeline that researches topics, generates SEO-oriented articles with LLMs, and publishes across multiple domains end-to-end — hands-off.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | n8n • LLM APIs • CMS / WordPress APIs • Webhooks |
+| **What** | Topic research → AI generation → formatting → multi-domain publishing |
+| **Status** | Production automation |
+
+</details>
+
+<details>
+<summary><b>🏠 Real Estate Lead Automation & CRM Platform</b></summary>
+
+<br/>
+
+Captures, qualifies, and routes real-estate leads into a CRM with automated, personalized follow-up sequences.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | n8n • CRM APIs • Node.js • Webhooks |
+| **What** | Lead capture → enrichment → CRM sync → automated follow-up |
+| **Status** | Production automation |
+
+</details>
+
+<details>
+<summary><b>🔗 LinkedIn Sales Funnel Automation</b></summary>
+
+<br/>
+
+Automates LinkedIn outreach, lead nurturing, and funnel tracking for B2B pipelines with AI-personalized messaging.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Automation workflows • LinkedIn flows • LLM personalization |
+| **What** | Prospecting → personalized outreach → nurture → funnel analytics |
+| **Status** | Production automation |
+
+</details>
+
+<details>
+<summary><b>🚗 Vehicle Intelligence Platform — Automotive Market Analysis</b></summary>
+
+<br/>
+
+Aggregates and analyzes automotive-marketplace data to surface pricing trends and market insights.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Playwright • Python • PostgreSQL • Data Analytics |
+| **What** | Marketplace scraping → normalization → pricing & market intelligence |
+| **Status** | Production automation |
+
+</details>
+
+<details>
+<summary><b>📜 Certificate Generation & Distribution Automation</b></summary>
+
+<br/>
+
+Bulk-generates personalized certificates and distributes them automatically at scale.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | n8n • Templating • Email / Drive APIs |
+| **What** | Data input → templated generation → automated delivery |
+| **Status** | Production automation |
 
 </details>
 
@@ -171,14 +241,14 @@ A backend layer that connects disparate business tools through clean, documented
 ### Founder & AI Automation Engineer — **ASTITWA AI**
 `2024 — Present` <!-- REPLACE date range -->
 
-Building an AI automation studio that ships AI agents, n8n workflows, and API-driven systems for businesses — owning everything from architecture and development to deployment and reliability.
+Run an AI automation studio delivering production-grade AI systems for international clients — owning the full lifecycle from problem identification and architecture through development, deployment, and measurable business impact.
 
-- Design and deploy **n8n-based automation** pipelines for real-world business operations.
-- Build **LLM-powered AI agents** with structured tool-use and API orchestration.
-- Engineer **API-driven backends** that integrate third-party services into unified workflows.
-- Focus on **scalable, reliable, production-grade** delivery — not just prototypes.
+- Architected and shipped **AI mobile apps, AI voice-calling platforms, content engines, and data-intelligence systems** for clients in the **UK & Poland**.
+- Generated **$14,000+ in direct client revenue** and reduced manual operational costs by **60%+**.
+- Built end-to-end pipelines spanning **web scraping (Playwright), GPT-4 & computer vision, AI voice (VoIP), n8n automation, and scalable backends**.
+- Delivered systems running in **production, serving real users daily** with 99%+ uptime.
 
-`AI Agents` `n8n` `Generative AI` `FastAPI` `Node.js` `Cloud Deployment` `API Design`
+`AI Agents` `Generative AI` `GPT-4` `Computer Vision` `AI Voice` `n8n` `Playwright` `FastAPI` `Node.js` `React Native` `PostgreSQL` `Docker`
 
 ---
 
@@ -188,11 +258,13 @@ Building an AI automation studio that ships AI agents, n8n workflows, and API-dr
 
 | Recognition | Details |
 | :--- | :--- |
-| 🚀 **Founder, ASTITWA AI** | Launched an AI automation venture serving real businesses |
+| 💸 **$14,000+ Client Revenue** | Generated directly through deployed AI automation systems |
+| 🌍 **International Clients** | Shipped production systems for clients in the UK & Poland |
+| 📞 **AI Voice Platform → $5,000+** | Hefes dealer-outreach system: 200–300 AI calls/day, 99%+ uptime |
+| 🥗 **GoodFor (UK) — 4.8/5.0 Beta** | AI product-intelligence app, pre-launch to App Store & Play Store |
+| 🚀 **Founder, ASTITWA AI** | AI automation studio serving real businesses |
 | 🎓 **B.Tech CSE, MIT ADT University** | Strong CS foundations + applied AI & networking |
-| ⚙️ **Automation Specialist** | End-to-end n8n + AI agent workflow delivery |
-| 🌱 **Continuous Builder** | Consistent shipping of real-world, deployed solutions |
-<!-- REPLACE / ADD real achievements, hackathons, awards here -->
+<!-- ADD any hackathons / awards here -->
 
 </div>
 
@@ -286,9 +358,9 @@ learning:
   - Networking & systems fundamentals
 
 building:
-  - ASTITWA AI — AI automation studio for businesses
-  - Production n8n workflows & AI agents
-  - API-driven integration platforms
+  - ASTITWA AI — production AI systems for international clients
+  - GoodFor — AI product-intelligence app (UK, pre-launch)
+  - LiveWall — live wallpaper app for macOS (livewall.astitwa.ai)
 
 exploring:
   - Multi-agent systems & autonomous tool-use
@@ -310,7 +382,7 @@ open_to:
 <a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://livewall.astitwa.ai/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
