@@ -1,15 +1,18 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  THEME: Warm luxury (amber / gold / bronze on espresso). All badges are <img>
-  tags so GitHub always renders them. Certifications are real (from LinkedIn).
-  Still optional to confirm: location (Pune), experience start date (2024).
-  Snake graph served from the `output` branch (snake.yml workflow).
+  THEME: Warm luxury (amber / gold / bronze on espresso). Custom banner at
+  assets/header.svg. All badges are <img> tags so GitHub always renders them.
+  TO FILL IN:
+   • Résumé button → replace https://your-resume-link.com with your CV link
+   • Client Feedback → swap in a verified direct quote when you have one
+   • (optional) location (Pune), experience start date (2024)
+  AUTO: github-metrics.svg (metrics.yml) · snake.svg (snake.yml, output branch)
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92400E,50:D97706,100:FBBF24&height=220&section=header&text=Rudraksh%20Bharti&fontSize=58&fontColor=FFF7ED&animation=fadeIn&fontAlignY=34&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Founder%20of%20ASTITWA%20AI&descAlignY=56&descSize=20&descAlign=50" alt="header" />
+<img width="100%" src="./assets/header.svg" alt="Rudraksh Bharti — AI Automation Engineer, Founder of ASTITWA AI" />
 
 <a href="https://github.com/CTAGRAM">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&height=60&lines=AI+Automation+Engineer+%26+Founder+of+ASTITWA+AI;Building+AI+Agents%2C+Voice+Systems+%26+Automations;%2414%2C000%2B+Delivered+for+UK+%26+Poland+Clients;Turning+Complex+Operations+Into+Simple+Workflows" alt="Typing SVG" />
@@ -28,6 +31,7 @@
 <a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-1A120B?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-1A120B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-92400E?style=for-the-badge&logoColor=white" alt="Résumé" /></a>
 
 <br/><br/>
 
@@ -35,9 +39,21 @@
 <img src="https://img.shields.io/github/followers/CTAGRAM?label=Followers&style=flat-square&color=B45309&logo=github&logoColor=white" alt="Followers" />
 <a href="https://github.com/CTAGRAM?tab=repositories"><img src="https://img.shields.io/badge/%E2%AD%90%20Star%20My%20Work-F59E0B?style=flat-square" alt="Stars" /></a>
 
+<br/><br/>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-3A2408?style=flat-square" alt="About" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-3A2408?style=flat-square" alt="Tech Stack" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-3A2408?style=flat-square" alt="Projects" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-3A2408?style=flat-square" alt="Experience" /></a>
+<a href="#certs"><img src="https://img.shields.io/badge/Certifications-3A2408?style=flat-square" alt="Certifications" /></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-3A2408?style=flat-square" alt="Analytics" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-3A2408?style=flat-square" alt="Connect" /></a>
+
 </div>
 
 ---
+
+<a id="about"></a>
 
 ## ☕ About Me
 
@@ -52,6 +68,8 @@
 **🤝 Open To** — `AI / Automation Engineering Roles` • `Internships` • `Freelance Automation Projects` • `Open-Source Collaboration`
 
 ---
+
+<a id="stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -100,7 +118,15 @@
 
 ---
 
+<a id="projects"></a>
+
 ## 🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/CTAGRAM/blog-content-automation-ai-n8n">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CTAGRAM&repo=blog-content-automation-ai-n8n&theme=gruvbox&bg_color=1A120B&title_color=FBBF24&text_color=E8D6BE&icon_color=F59E0B&border_color=78350F" alt="blog-content-automation-ai-n8n" />
+</a>
+</div>
 
 <details open>
 <summary><b>🥗 GoodFor — AI Product Intelligence Mobile App</b> &nbsp;·&nbsp; <code>🇬🇧 UK Health-Tech Client</code></summary>
@@ -187,6 +213,8 @@ Additional production automation systems delivered for clients and internal ops:
 
 ---
 
+<a id="experience"></a>
+
 ## 💼 Experience
 
 ### Founder & AI Automation Engineer — **ASTITWA AI**
@@ -200,6 +228,14 @@ Run an AI automation studio delivering production-grade AI systems for internati
 - Delivered systems running in **production, serving real users daily** with 99%+ uptime.
 
 `AI Agents` `Generative AI` `GPT-4` `Computer Vision` `AI Voice` `n8n` `Playwright` `FastAPI` `Node.js` `React Native` `PostgreSQL` `Docker`
+
+---
+
+## 💬 Client Feedback
+
+> **Hefes — Automotive Tech, Poland 🇵🇱**
+> After deploying the AI voice-calling system, the client reported significant time savings and improved dealer relationship management — freeing the founder to focus on high-value negotiations while routine outreach runs autonomously.
+<!-- Swap in a verified direct quote + attribution when you have one. -->
 
 ---
 
@@ -226,6 +262,8 @@ Run an AI automation studio delivering production-grade AI systems for internati
 </div>
 
 ---
+
+<a id="certs"></a>
 
 ## 📜 Certifications
 
@@ -256,6 +294,8 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 ---
 
+<a id="analytics"></a>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -280,6 +320,16 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CTAGRAM&theme=gruvbox" alt="Stats" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CTAGRAM&theme=gruvbox&utcOffset=5.5" alt="Productive Time" />
+
+</div>
+
+---
+
+## 📐 Metrics Dashboard
+
+<div align="center">
+
+<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
@@ -333,6 +383,8 @@ open_to:
 ```
 
 ---
+
+<a id="connect"></a>
 
 ## 🌐 Connect
 
