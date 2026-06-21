@@ -24,24 +24,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_order: base.header, isocalendar, languages, habits, base.activity, base.community, base.repositories
+          config_order: base.header, isocalendar, base.activity, base.community, base.repositories
 
+          # isocalendar = the isometric 3D contribution calendar (works on the
+          # built-in GITHUB_TOKEN). languages/habits are intentionally omitted —
+          # they require a personal access token (METRICS_TOKEN). Add that secret
+          # and re-enable them for an even richer card.
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # Warm luxury theme (card is HTML-in-SVG, so this CSS applies)
+          # Warm bronze accents that stay readable in BOTH GitHub light & dark mode.
           extras_css: |
-            body { background: linear-gradient(135deg,#160F08 0%,#241608 60%,#3A2408 100%) !important; color:#E8D6BE !important; }
-            h2 { color:#FBBF24 !important; border-color:#78350F !important; }
-            .field, .row, table, td, th, .text, p, span { color:#E8D6BE !important; }
-            a { color:#F59E0B !important; }
-            text { fill:#E8D6BE; }
+            h1, h2, h3 { color:#B45309 !important; }
+            .field svg, h1 svg, h2 svg, h3 svg { fill:#D97706 !important; }
+            a { color:#B45309 !important; }
