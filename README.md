@@ -1,37 +1,325 @@
-# 💫 About Me:
-Aspiring AI automation engineer and founder of ASTITWA AI, building workflow automation, AI agents, and API‑driven systems for businesses. 🚀<br><br>Currently pursuing B.Tech CSE at MIT ADT University, with a strong focus on n8n-based automations, real-world deployment, and scalable, reliable solutions. 🎓<br><br>Passionate about using generative AI and networking fundamentals to turn complex business operations into simple, impact-driven workflows. 🤖<br>
+<!--
+══════════════════════════════════════════════════════════════════════════════
+  PERSONALIZE BEFORE PUBLISHING — search for "REPLACE" / "YOUR_" below:
+   • Portfolio URL              (header + Connect + Current Focus)
+   • Email                      (currently rudrabhar21@gmail.com — confirm)
+   • Location                   (currently "Pune, India" — inferred from MIT ADT)
+   • Experience start date      (currently "2024 — Present")
+   • Featured project repo links
+   • Coding profile usernames   (LeetCode / GFG / HackerRank / CodeChef)
+   • Certifications             (add real ones / remove placeholders)
+   • Achievements               (add real ones)
+  Snake graph requires the included .github/workflows/snake.yml to run once.
+══════════════════════════════════════════════════════════════════════════════
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-bharti-7579722ba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OCTAAIAG) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Rudraksh%20Bharti&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Founder%20of%20ASTITWA%20AI&descAlignY=56&descSize=20&descAlign=50" alt="header" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CTAGRAM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CTAGRAM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CTAGRAM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/CTAGRAM">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=820&height=60&lines=AI+Automation+Engineer+%26+Founder+of+ASTITWA+AI;Building+AI+Agents+%26+Workflow+Automation;n8n+%E2%80%A2+Generative+AI+%E2%80%A2+API-Driven+Systems;Turning+Complex+Operations+Into+Simple+Workflows" alt="Typing SVG" />
+</a>
 
-## 3D Contribution Calendar
-<!-- This section is auto-generated by the GitHub-Profile-3D-Contrib action -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<br/>
 
-[![GitHub City](https://img.shields.io/badge/GitHub%20City-View%20My%203D%20City-blue?style=for-the-badge&logo=github&logoColor=white)](https://honzaap.github.io/GithubCity/?name=CTAGRAM&year=2025)
+<!-- Academic + Location -->
+![Degree](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![University](https://img.shields.io/badge/MIT%20ADT%20University-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Pune%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CTAGRAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Connect buttons -->
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CTAGRAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
+
+<!-- Live metrics -->
+<img src="https://komarev.com/ghpvc/?username=CTAGRAM&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/CTAGRAM?label=Followers&style=flat-square&color=7C3AED&logo=github&logoColor=white" alt="Followers" />
+<a href="https://github.com/CTAGRAM?tab=repositories"><img src="https://img.shields.io/badge/%E2%AD%90-Star%20My%20Work-A855F7?style=flat-square" alt="Stars" /></a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CTAGRAM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rudrabhar21@gmail.com)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
+> **Aspiring AI Automation Engineer & Founder of [ASTITWA AI](https://github.com/CTAGRAM)** — I design and ship workflow automation, AI agents, and API-driven systems that turn complex, manual business operations into simple, reliable, impact-driven workflows.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🧠 **AI & Generative Engineering** — building LLM-driven agents, RAG pipelines, and intelligent automation that does real work for real businesses.
+- ⚙️ **Workflow Automation** — deep focus on **n8n**, event-driven webhooks, and API orchestration for scalable, production-grade systems.
+- 🌐 **Full-Stack & Product Mindset** — from networking fundamentals to deployment, I care about the whole path from idea → reliable, shippable product.
+- 🎓 **B.Tech CSE @ MIT ADT University** — pairing strong CS fundamentals with hands-on, real-world deployment.
+- 🚀 **Founder energy** — I treat every project like a product: scalable, secure, and built to last.
+
+**🤝 Open To** — `AI / Automation Engineering Roles` • `Internships` • `Freelance Automation Projects` • `Open-Source Collaboration`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,swift,html,css&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,flutter,expo,wordpress&theme=dark" alt="frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,dotnet,postgres,mongodb,supabase,firebase,sqlite,appwrite&theme=dark" alt="backend" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify,docker,git,github,githubactions,figma,linux&theme=dark" alt="cloud" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="aiml" />
+&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Generative AI & LLMs** | `Advanced` | Prompt engineering, RAG, LLM-driven agents, structured tool-use & API integration |
+| **AI Agents & Orchestration** | `Advanced` | Autonomous multi-step agents, n8n + LLM pipelines, function/tool calling |
+| **Workflow Automation** | `Advanced` | n8n, event-driven webhooks, API orchestration, business-process automation |
+| **Backend & API Engineering** | `Proficient` | FastAPI, Node/Nest, REST integrations, auth & secrets management |
+| **Machine Learning** | `Foundational` | PyTorch, scikit-learn, TensorFlow — model training & evaluation |
+| **Data & Analytics** | `Proficient` | Pandas, NumPy, data pipelines & ETL for automation workloads |
+| **Cloud Deployment** | `Proficient` | AWS / Azure / GCP, Vercel, real-world deployment & scaling |
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🧠 ASTITWA AI — AI Automation Studio</b></summary>
+
+<br/>
+
+End-to-end AI automation venture delivering AI agents and workflow systems that automate real business operations — from lead handling to internal ops — built to be reliable, scalable, and easy to maintain.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | n8n • Python • FastAPI • LLM APIs • Webhooks • Cloud Hosting |
+| **Scale** | Multi-workflow, multi-client, business-ready architecture |
+| **Performance** | Event-driven & webhook-triggered for low-latency execution |
+| **Security** | Token-scoped API keys, environment-based secret management |
+| **Impact** | Replaces repetitive manual operations with autonomous workflows |
+| **Repository** | [`CTAGRAM/astitwa-ai`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+
+</details>
+
+<details>
+<summary><b>⚙️ n8n Workflow Automation Suite</b></summary>
+
+<br/>
+
+A collection of production-grade automation workflows orchestrating APIs, AI models, and third-party services into seamless, hands-off business pipelines.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | n8n • REST/GraphQL APIs • JavaScript • Webhooks |
+| **Scale** | Modular, reusable nodes across multiple business use-cases |
+| **Performance** | Async, queue-friendly execution with retry & error handling |
+| **Security** | Credential vaulting, scoped access, signed webhooks |
+| **Impact** | Cuts manual ops time and human error for SMB workflows |
+| **Repository** | [`CTAGRAM/n8n-automation`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+
+</details>
+
+<details>
+<summary><b>🔌 API-Driven Integration Platform</b></summary>
+
+<br/>
+
+A backend layer that connects disparate business tools through clean, documented APIs — the connective tissue powering automated, AI-enhanced operations.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | FastAPI • Node.js • Postgres / MongoDB • Cloud Deploy |
+| **Scale** | Stateless services designed for horizontal scaling |
+| **Performance** | Cached responses & efficient query patterns |
+| **Security** | JWT auth, rate limiting, input validation |
+| **Impact** | Single integration layer for AI agents & automations |
+| **Repository** | [`CTAGRAM/api-platform`](https://github.com/CTAGRAM) <!-- REPLACE repo link --> |
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Founder & AI Automation Engineer — **ASTITWA AI**
+`2024 — Present` <!-- REPLACE date range -->
+
+Building an AI automation studio that ships AI agents, n8n workflows, and API-driven systems for businesses — owning everything from architecture and development to deployment and reliability.
+
+- Design and deploy **n8n-based automation** pipelines for real-world business operations.
+- Build **LLM-powered AI agents** with structured tool-use and API orchestration.
+- Engineer **API-driven backends** that integrate third-party services into unified workflows.
+- Focus on **scalable, reliable, production-grade** delivery — not just prototypes.
+
+`AI Agents` `n8n` `Generative AI` `FastAPI` `Node.js` `Cloud Deployment` `API Design`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| 🚀 **Founder, ASTITWA AI** | Launched an AI automation venture serving real businesses |
+| 🎓 **B.Tech CSE, MIT ADT University** | Strong CS foundations + applied AI & networking |
+| ⚙️ **Automation Specialist** | End-to-end n8n + AI agent workflow delivery |
+| 🌱 **Continuous Builder** | Consistent shipping of real-world, deployed solutions |
+<!-- REPLACE / ADD real achievements, hackathons, awards here -->
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<!-- REPLACE: add real certification badges per provider, or remove unused groups -->
+
+**AWS**
+![AWS](https://img.shields.io/badge/AWS%20Cloud-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Oracle**
+![Oracle](https://img.shields.io/badge/Oracle-In%20Progress-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**NPTEL**
+![NPTEL](https://img.shields.io/badge/NPTEL-In%20Progress-2563EB?style=flat-square&logo=google-scholar&logoColor=white)
+
+**Cisco**
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-In%20Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<!-- REPLACE YOUR_USERNAME with your real handles -->
+<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CTAGRAM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CTAGRAM&hide_border=true&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTAGRAM&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CTAGRAM&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CTAGRAM&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced LLM agent orchestration & RAG architectures
+  - Scalable MLOps & cloud-native deployment
+  - Networking & systems fundamentals
+
+building:
+  - ASTITWA AI — AI automation studio for businesses
+  - Production n8n workflows & AI agents
+  - API-driven integration platforms
+
+exploring:
+  - Multi-agent systems & autonomous tool-use
+  - Generative AI applied to real business operations
+
+open_to:
+  - AI / Automation Engineering roles & internships
+  - Freelance automation projects
+  - Open-source collaboration
+```
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/rudraksh-bharti-7579722ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+> _"Turning complex business operations into simple, impact-driven workflows."_
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:4F46E5&height=120&section=footer" alt="footer" />
+
+</div>
