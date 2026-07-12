@@ -1,18 +1,26 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  THEME: Warm luxury (amber / gold / bronze on espresso). Custom banner at
-  assets/header.svg. All badges are <img> tags so GitHub always renders them.
+  THEME: Warm luxury (amber / gold / bronze on espresso). All badges are
+  <img> tags so GitHub always renders them.
+  HERO: neofetch-style ASCII card — dark_mode.svg / light_mode.svg at repo root
+  (regenerate with the local Pillow script; the photo is embedded as text, not
+  uploaded). The old banner still lives at assets/header.svg if you want it back.
   TO FILL IN:
-   • Résumé button → replace https://your-resume-link.com with your CV link
-   • Client Feedback → swap in a verified direct quote when you have one
-   • (optional) location (Pune), experience start date (2024)
+   • Résumé → add an <a> button with your CV link when you have one
+   • Client Feedback → add a section with a verified direct quote + attribution
   AUTO: snake.svg (snake.yml, output branch)
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Rudraksh Bharti — AI Automation Engineer, Founder of ASTITWA AI" />
+<a href="https://github.com/CTAGRAM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/main/dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/main/light_mode.svg" />
+    <img width="100%" alt="Rudraksh Bharti — AI Automation Engineer & Founder of ASTITWA AI" src="https://raw.githubusercontent.com/CTAGRAM/CTAGRAM/main/dark_mode.svg" />
+  </picture>
+</a>
 
 <a href="https://github.com/CTAGRAM">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&height=60&lines=AI+Automation+Engineer+%26+Founder+of+ASTITWA+AI;Building+AI+Agents%2C+Voice+Systems+%26+Automations;%2414%2C000%2B+Delivered+for+UK+%26+Poland+Clients;Turning+Complex+Operations+Into+Simple+Workflows" alt="Typing SVG" />
@@ -31,7 +39,6 @@
 <a href="mailto:rudrabhar21@gmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/OCTAAIAG"><img src="https://img.shields.io/badge/X-1A120B?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://github.com/CTAGRAM"><img src="https://img.shields.io/badge/GitHub-1A120B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-92400E?style=for-the-badge&logoColor=white" alt="Résumé" /></a>
 
 <br/><br/>
 
@@ -231,38 +238,6 @@ Run an AI automation studio delivering production-grade AI systems for internati
 
 ---
 
-## 💬 Client Feedback
-
-> **Hefes — Automotive Tech, Poland 🇵🇱**
-> After deploying the AI voice-calling system, the client reported significant time savings and improved dealer relationship management — freeing the founder to focus on high-value negotiations while routine outreach runs autonomously.
-<!-- Swap in a verified direct quote + attribution when you have one. -->
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-B45309?style=flat-square" alt="Pull Shark" />
-<img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-D97706?style=flat-square" alt="Quickdraw" />
-<img src="https://img.shields.io/badge/%F0%9F%91%A5%20Pair%20Extraordinaire-A16207?style=flat-square" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20YOLO-92400E?style=flat-square" alt="YOLO" />
-
-| Recognition | Details |
-| :--- | :--- |
-| 💸 **$14,000+ Client Revenue** | Generated directly through deployed AI automation systems |
-| 🌍 **International Clients** | Shipped production systems for clients in the UK & Poland |
-| 📞 **AI Voice Platform → $5,000+** | Hefes dealer-outreach system: 200–300 AI calls/day, 99%+ uptime |
-| 🥗 **GoodFor (UK) — 4.8/5.0 Beta** | AI product-intelligence app, pre-launch to App Store & Play Store |
-| 🏅 **Gemini Certified Educator** | Google certification (valid through 2029) |
-| 🧠 **10+ Industry Certifications** | Anthropic, AWS, Google, IBM, Deloitte & more |
-| 🎓 **B.Tech CSE, MIT ADT University** | Strong CS foundations + applied AI & networking |
-| 📈 **652+ Contributions / yr** | Consistent open-source & project activity on GitHub |
-
-</div>
-
----
-
 <a id="certs"></a>
 
 ## 📜 Certifications
@@ -304,22 +279,6 @@ Run an AI automation studio delivering production-grade AI systems for internati
 <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=CTAGRAM&hide_border=false&border=78350F&background=1A120B&stroke=F59E0B&ring=FBBF24&fire=EA580C&currStreakLabel=FBBF24&sideLabels=E8D6BE&dates=A98D6B&currStreakNum=FFF7ED&sideNums=FFF7ED" alt="Streak Stats" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTAGRAM&layout=compact&include_all_commits=true&count_private=true&hide_border=false&border_color=78350F&bg_color=1A120B&title_color=FBBF24&text_color=E8D6BE&langs_count=10" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏅 GitHub Highlights
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CTAGRAM&theme=gruvbox" alt="Profile Summary" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CTAGRAM&theme=gruvbox" alt="Repos per Language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CTAGRAM&theme=gruvbox" alt="Most Commit Language" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CTAGRAM&theme=gruvbox" alt="Stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CTAGRAM&theme=gruvbox&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
